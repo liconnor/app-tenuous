@@ -1,0 +1,20 @@
+{
+  "name": "tenuous",
+  "version": "1.0.9",
+  "description": "tenuous",
+  "main": "index.js",
+  "author": "Tom",
+  "repository": "",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
